@@ -102,3 +102,6 @@ ENV/
 workspace.xml
 db.sqlite3
 vcs.xml
+django_tutor.iml
+misc.xml
+modules.xml
