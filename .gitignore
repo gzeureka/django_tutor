@@ -101,3 +101,4 @@ ENV/
 .mypy_cache/
 workspace.xml
 db.sqlite3
+vcs.xml
